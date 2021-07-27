@@ -28,7 +28,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1 style={{fontFamily: 'impact'}}>BRTube</h1>
+        <h1 style={{fontFamily: 'impact'}}>VideoTube</h1>
         <Menu
           chooseVideo={this.chooseVideo} 
         />
